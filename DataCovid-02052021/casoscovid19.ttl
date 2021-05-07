@@ -1,0 +1,209 @@
+Region: <Amazonas> a inf:Covid_Data;
+ cant:Contagiados "26557"; 
+ cant:Fallecidos "457". 
+
+ Region: <Ancash> a inf:Covid_Data;
+ cant:Contagiados "63326"; 
+ cant:Fallecidos "2679". 
+
+ Region: <Apurimac> a inf:Covid_Data;
+ cant:Contagiados "19660"; 
+ cant:Fallecidos "481". 
+
+ Region: <Arequipa> a inf:Covid_Data;
+ cant:Contagiados "72911"; 
+ cant:Fallecidos "2457". 
+
+ Region: <Ayacucho> a inf:Covid_Data;
+ cant:Contagiados "26481"; 
+ cant:Fallecidos "737". 
+
+ Region: <Cajamarca> a inf:Covid_Data;
+ cant:Contagiados "52187"; 
+ cant:Fallecidos "1255". 
+
+ Region: <Callao> a inf:Covid_Data;
+ cant:Contagiados "91921"; 
+ cant:Fallecidos "3230". 
+
+ Region: <Cusco> a inf:Covid_Data;
+ cant:Contagiados "55000"; 
+ cant:Fallecidos "1186". 
+
+ Region: <Huancavelica> a inf:Covid_Data;
+ cant:Contagiados "13261"; 
+ cant:Fallecidos "377". 
+
+ Region: <Huanuco> a inf:Covid_Data;
+ cant:Contagiados "30119"; 
+ cant:Fallecidos "953". 
+
+ Region: <Ica> a inf:Covid_Data;
+ cant:Contagiados "48921"; 
+ cant:Fallecidos "2797". 
+
+ Region: <Junin> a inf:Covid_Data;
+ cant:Contagiados "62644"; 
+ cant:Fallecidos "2157". 
+
+ Region: <LaLibertad> a inf:Covid_Data;
+ cant:Contagiados "66876"; 
+ cant:Fallecidos "3802". 
+
+ Region: <Lambayeque> a inf:Covid_Data;
+ cant:Contagiados "50785"; 
+ cant:Fallecidos "2572". 
+
+ Region: <LimaMetropolitana> a inf:Covid_Data;
+ cant:Contagiados "771475"; 
+ cant:Fallecidos "24415". 
+
+ Region: <LimaRegion> a inf:Covid_Data;
+ cant:Contagiados "61751"; 
+ cant:Fallecidos "2773". 
+
+ Region: <Loreto> a inf:Covid_Data;
+ cant:Contagiados "38536"; 
+ cant:Fallecidos "1411". 
+
+ Region: <MadreDeDios> a inf:Covid_Data;
+ cant:Contagiados "12719"; 
+ cant:Fallecidos "228". 
+
+ Region: <Moquegua> a inf:Covid_Data;
+ cant:Contagiados "23283"; 
+ cant:Fallecidos "540". 
+
+ Region: <Pasco> a inf:Covid_Data;
+ cant:Contagiados "12990"; 
+ cant:Fallecidos "365". 
+
+ Region: <Piura> a inf:Covid_Data;
+ cant:Contagiados "71139"; 
+ cant:Fallecidos "3009". 
+
+ Region: <Puno> a inf:Covid_Data;
+ cant:Contagiados "29075"; 
+ cant:Fallecidos "830". 
+
+ Region: <SanMartin> a inf:Covid_Data;
+ cant:Contagiados "40539"; 
+ cant:Fallecidos "1199". 
+
+ Region: <Tacna> a inf:Covid_Data;
+ cant:Contagiados "23509"; 
+ cant:Fallecidos "746". 
+
+ Region: <Tumbes> a inf:Covid_Data;
+ cant:Contagiados "15266"; 
+ cant:Fallecidos "557". 
+
+ Region: <Ucayali> a inf:Covid_Data;
+ cant:Contagiados "30067"; 
+ cant:Fallecidos "913". 
+
+ Region: <Amazonas> a inf:Covid_Data;
+ cant:Contagiados "26557"; 
+ cant:Fallecidos "457". 
+
+ Region: <Ancash> a inf:Covid_Data;
+ cant:Contagiados "63326"; 
+ cant:Fallecidos "2679". 
+
+ Region: <Apurimac> a inf:Covid_Data;
+ cant:Contagiados "19660"; 
+ cant:Fallecidos "481". 
+
+ Region: <Arequipa> a inf:Covid_Data;
+ cant:Contagiados "72911"; 
+ cant:Fallecidos "2457". 
+
+ Region: <Ayacucho> a inf:Covid_Data;
+ cant:Contagiados "26481"; 
+ cant:Fallecidos "737". 
+
+ Region: <Cajamarca> a inf:Covid_Data;
+ cant:Contagiados "52187"; 
+ cant:Fallecidos "1255". 
+
+ Region: <Callao> a inf:Covid_Data;
+ cant:Contagiados "91921"; 
+ cant:Fallecidos "3230". 
+
+ Region: <Cusco> a inf:Covid_Data;
+ cant:Contagiados "55000"; 
+ cant:Fallecidos "1186". 
+
+ Region: <Huancavelica> a inf:Covid_Data;
+ cant:Contagiados "13261"; 
+ cant:Fallecidos "377". 
+
+ Region: <Huanuco> a inf:Covid_Data;
+ cant:Contagiados "30119"; 
+ cant:Fallecidos "953". 
+
+ Region: <Ica> a inf:Covid_Data;
+ cant:Contagiados "48921"; 
+ cant:Fallecidos "2797". 
+
+ Region: <Junin> a inf:Covid_Data;
+ cant:Contagiados "62644"; 
+ cant:Fallecidos "2157". 
+
+ Region: <LaLibertad> a inf:Covid_Data;
+ cant:Contagiados "66876"; 
+ cant:Fallecidos "3802". 
+
+ Region: <Lambayeque> a inf:Covid_Data;
+ cant:Contagiados "50785"; 
+ cant:Fallecidos "2572". 
+
+ Region: <LimaMetropolitana> a inf:Covid_Data;
+ cant:Contagiados "771475"; 
+ cant:Fallecidos "24415". 
+
+ Region: <LimaRegion> a inf:Covid_Data;
+ cant:Contagiados "61751"; 
+ cant:Fallecidos "2773". 
+
+ Region: <Loreto> a inf:Covid_Data;
+ cant:Contagiados "38536"; 
+ cant:Fallecidos "1411". 
+
+ Region: <MadreDeDios> a inf:Covid_Data;
+ cant:Contagiados "12719"; 
+ cant:Fallecidos "228". 
+
+ Region: <Moquegua> a inf:Covid_Data;
+ cant:Contagiados "23283"; 
+ cant:Fallecidos "540". 
+
+ Region: <Pasco> a inf:Covid_Data;
+ cant:Contagiados "12990"; 
+ cant:Fallecidos "365". 
+
+ Region: <Piura> a inf:Covid_Data;
+ cant:Contagiados "71139"; 
+ cant:Fallecidos "3009". 
+
+ Region: <Puno> a inf:Covid_Data;
+ cant:Contagiados "29075"; 
+ cant:Fallecidos "830". 
+
+ Region: <SanMartin> a inf:Covid_Data;
+ cant:Contagiados "40539"; 
+ cant:Fallecidos "1199". 
+
+ Region: <Tacna> a inf:Covid_Data;
+ cant:Contagiados "23509"; 
+ cant:Fallecidos "746". 
+
+ Region: <Tumbes> a inf:Covid_Data;
+ cant:Contagiados "15266"; 
+ cant:Fallecidos "557". 
+
+ Region: <Ucayali> a inf:Covid_Data;
+ cant:Contagiados "30067"; 
+ cant:Fallecidos "913". 
+
+ 
