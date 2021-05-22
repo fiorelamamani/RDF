@@ -1,0 +1,270 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dataFromRegion:Amazonas
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "27917"^^xsd:Integer ;
+bsbm: Fallecidos "504"^^xsd:Integer ;
+
+dataFromRegion:Ancash
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "67736"^^xsd:Integer ;
+bsbm: Fallecidos "2944"^^xsd:Integer ;
+
+dataFromRegion:Apurimac
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "22135"^^xsd:Integer ;
+bsbm: Fallecidos "587"^^xsd:Integer ;
+
+dataFromRegion:Arequipa
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "79339"^^xsd:Integer ;
+bsbm: Fallecidos "2756"^^xsd:Integer ;
+
+dataFromRegion:Ayacucho
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "28108"^^xsd:Integer ;
+bsbm: Fallecidos "821"^^xsd:Integer ;
+
+dataFromRegion:Cajamarca
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "56548"^^xsd:Integer ;
+bsbm: Fallecidos "1452"^^xsd:Integer ;
+
+dataFromRegion:Callao
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "94182"^^xsd:Integer ;
+bsbm: Fallecidos "3393"^^xsd:Integer ;
+
+dataFromRegion:Cusco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "60178"^^xsd:Integer ;
+bsbm: Fallecidos "1369"^^xsd:Integer ;
+
+dataFromRegion:Huancavelica
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "14288"^^xsd:Integer ;
+bsbm: Fallecidos "424"^^xsd:Integer ;
+
+dataFromRegion:Huanuco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "31363"^^xsd:Integer ;
+bsbm: Fallecidos "1050"^^xsd:Integer ;
+
+dataFromRegion:Ica
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "51250"^^xsd:Integer ;
+bsbm: Fallecidos "3000"^^xsd:Integer ;
+
+dataFromRegion:Junin
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "69184"^^xsd:Integer ;
+bsbm: Fallecidos "2465"^^xsd:Integer ;
+
+dataFromRegion:LaLibertad
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "74692"^^xsd:Integer ;
+bsbm: Fallecidos "4085"^^xsd:Integer ;
+
+dataFromRegion:Lambayeque
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "54093"^^xsd:Integer ;
+bsbm: Fallecidos "2701"^^xsd:Integer ;
+
+dataFromRegion:LimaMetropolitana
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "802255"^^xsd:Integer ;
+bsbm: Fallecidos "26135"^^xsd:Integer ;
+
+dataFromRegion:LimaRegion
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "64950"^^xsd:Integer ;
+bsbm: Fallecidos "3030"^^xsd:Integer ;
+
+dataFromRegion:Loreto
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "39490"^^xsd:Integer ;
+bsbm: Fallecidos "1411"^^xsd:Integer ;
+
+dataFromRegion:MadreDeDios
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "13010"^^xsd:Integer ;
+bsbm: Fallecidos "238"^^xsd:Integer ;
+
+dataFromRegion:Moquegua
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "24145"^^xsd:Integer ;
+bsbm: Fallecidos "577"^^xsd:Integer ;
+
+dataFromRegion:Pasco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "13834"^^xsd:Integer ;
+bsbm: Fallecidos "423"^^xsd:Integer ;
+
+dataFromRegion:Piura
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "75720"^^xsd:Integer ;
+bsbm: Fallecidos "3247"^^xsd:Integer ;
+
+dataFromRegion:Puno
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "31228"^^xsd:Integer ;
+bsbm: Fallecidos "964"^^xsd:Integer ;
+
+dataFromRegion:SanMartin
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "42977"^^xsd:Integer ;
+bsbm: Fallecidos "1293"^^xsd:Integer ;
+
+dataFromRegion:Tacna
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "24595"^^xsd:Integer ;
+bsbm: Fallecidos "806"^^xsd:Integer ;
+
+dataFromRegion:Tumbes
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "16210"^^xsd:Integer ;
+bsbm: Fallecidos "600"^^xsd:Integer ;
+
+dataFromRegion:Ucayali
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "30933"^^xsd:Integer ;
+bsbm: Fallecidos "978"^^xsd:Integer ;
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dataFromRegion:Amazonas
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "27917"^^xsd:Integer ;
+bsbm: Fallecidos "504"^^xsd:Integer ;
+
+dataFromRegion:Ancash
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "67736"^^xsd:Integer ;
+bsbm: Fallecidos "2944"^^xsd:Integer ;
+
+dataFromRegion:Apurimac
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "22135"^^xsd:Integer ;
+bsbm: Fallecidos "587"^^xsd:Integer ;
+
+dataFromRegion:Arequipa
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "79339"^^xsd:Integer ;
+bsbm: Fallecidos "2756"^^xsd:Integer ;
+
+dataFromRegion:Ayacucho
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "28108"^^xsd:Integer ;
+bsbm: Fallecidos "821"^^xsd:Integer ;
+
+dataFromRegion:Cajamarca
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "56548"^^xsd:Integer ;
+bsbm: Fallecidos "1452"^^xsd:Integer ;
+
+dataFromRegion:Callao
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "94182"^^xsd:Integer ;
+bsbm: Fallecidos "3393"^^xsd:Integer ;
+
+dataFromRegion:Cusco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "60178"^^xsd:Integer ;
+bsbm: Fallecidos "1369"^^xsd:Integer ;
+
+dataFromRegion:Huancavelica
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "14288"^^xsd:Integer ;
+bsbm: Fallecidos "424"^^xsd:Integer ;
+
+dataFromRegion:Huanuco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "31363"^^xsd:Integer ;
+bsbm: Fallecidos "1050"^^xsd:Integer ;
+
+dataFromRegion:Ica
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "51250"^^xsd:Integer ;
+bsbm: Fallecidos "3000"^^xsd:Integer ;
+
+dataFromRegion:Junin
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "69184"^^xsd:Integer ;
+bsbm: Fallecidos "2465"^^xsd:Integer ;
+
+dataFromRegion:LaLibertad
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "74692"^^xsd:Integer ;
+bsbm: Fallecidos "4085"^^xsd:Integer ;
+
+dataFromRegion:Lambayeque
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "54093"^^xsd:Integer ;
+bsbm: Fallecidos "2701"^^xsd:Integer ;
+
+dataFromRegion:LimaMetropolitana
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "802255"^^xsd:Integer ;
+bsbm: Fallecidos "26135"^^xsd:Integer ;
+
+dataFromRegion:LimaRegion
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "64950"^^xsd:Integer ;
+bsbm: Fallecidos "3030"^^xsd:Integer ;
+
+dataFromRegion:Loreto
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "39490"^^xsd:Integer ;
+bsbm: Fallecidos "1411"^^xsd:Integer ;
+
+dataFromRegion:MadreDeDios
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "13010"^^xsd:Integer ;
+bsbm: Fallecidos "238"^^xsd:Integer ;
+
+dataFromRegion:Moquegua
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "24145"^^xsd:Integer ;
+bsbm: Fallecidos "577"^^xsd:Integer ;
+
+dataFromRegion:Pasco
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "13834"^^xsd:Integer ;
+bsbm: Fallecidos "423"^^xsd:Integer ;
+
+dataFromRegion:Piura
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "75720"^^xsd:Integer ;
+bsbm: Fallecidos "3247"^^xsd:Integer ;
+
+dataFromRegion:Puno
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "31228"^^xsd:Integer ;
+bsbm: Fallecidos "964"^^xsd:Integer ;
+
+dataFromRegion:SanMartin
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "42977"^^xsd:Integer ;
+bsbm: Fallecidos "1293"^^xsd:Integer ;
+
+dataFromRegion:Tacna
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "24595"^^xsd:Integer ;
+bsbm: Fallecidos "806"^^xsd:Integer ;
+
+dataFromRegion:Tumbes
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "16210"^^xsd:Integer ;
+bsbm: Fallecidos "600"^^xsd:Integer ;
+
+dataFromRegion:Ucayali
+rdf:type bsbm:Region ; 
+bsbm: TotalCasos(+) "30933"^^xsd:Integer ;
+bsbm: Fallecidos "978"^^xsd:Integer ;
+
